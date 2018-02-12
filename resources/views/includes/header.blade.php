@@ -1,15 +1,15 @@
-            <div class="sidebar" data-color="orange">
+            <div class="sidebar" data-color="yellow">
     <!--
         Tip 1: You can change the color of the sidebar using: data-color="blue | green | orange | red | yellow"
     -->
 
     <div class="logo">
         <a href="http://www.creative-tim.com" class="simple-text logo-mini">
-            CT
+            ES
         </a>
 
         <a href="http://www.creative-tim.com" class="simple-text logo-normal">
-            Creative Tim
+            ETKSYNC
         </a>
         <div class="navbar-minimize">
           <button id="minimizeSidebar" class="btn btn-simple btn-icon btn-neutral btn-round">
